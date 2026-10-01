@@ -2,7 +2,5 @@
 
 int main()
 {
-  std::cout << "Hello , top-it!";
-  std::cout << "\n";
-  std::cout << "My name is Kasum\n"
+  std::cout << "Hello , top-it! My name is Kasum\n"
 }
